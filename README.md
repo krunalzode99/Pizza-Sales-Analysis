@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis
+# Pizza-Sales-Analysis SQL + Power BI
 ## KPI's Requirement
 Analyse key indicators for pizza sales data to gain insights into business performance. Specifically, to calculate metrics– Total revenue, Average order value, Total pizzas sold, Total orders, Average pizzas per order. 
 ## Chart Requirement
